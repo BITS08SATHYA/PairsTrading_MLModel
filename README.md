@@ -5,9 +5,9 @@
 
 ## Key Highlights:
 
-### Signal Generation: Developed signal generation matrices for long and short trading entries based on z-score thresholds.
-### Machine Learning Model: Employed a Decision Tree Classifier to predict trading signals, achieving significant accuracy on test datasets.
-### Performance Evaluation: Optimized Sharpe ratios and visualized equity curves to assess the effectiveness of trading strategies.
+#### Signal Generation: Developed signal generation matrices for long and short trading entries based on z-score thresholds.
+#### Machine Learning Model: Employed a Decision Tree Classifier to predict trading signals, achieving significant accuracy on test datasets.
+#### Performance Evaluation: Optimized Sharpe ratios and visualized equity curves to assess the effectiveness of trading strategies.
 
 ## Features:
 ### Data preprocessing, feature engineering, and exploratory data analysis.
