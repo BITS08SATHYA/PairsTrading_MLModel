@@ -10,6 +10,6 @@
 ### Performance Evaluation: Optimized Sharpe ratios and visualized equity curves to assess the effectiveness of trading strategies.
 
 ## Features:
-1.Data preprocessing, feature engineering, and exploratory data analysis.
-2.Advanced signal generation based on statistical metrics and machine learning predictions.
-3.Robust evaluation of trading strategies through metrics like Sharpe ratio and confusion matrices.
+### Data preprocessing, feature engineering, and exploratory data analysis.
+#### Advanced signal generation based on statistical metrics and machine learning predictions.
+#### Robust evaluation of trading strategies through metrics like Sharpe ratio and confusion matrices.
